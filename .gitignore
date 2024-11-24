@@ -1,0 +1,11 @@
+.env
+
+node_modules/
+
+*.log
+
+.DS_Store
+Thumbs.db
+
+/public/dist/
+temp/
